@@ -1,0 +1,42 @@
+{
+  "profiles": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "avatarUrl": "https://picsum.photos/seed/1/160/160",
+      "hint": "person face"
+    },
+    {
+      "id": "2",
+      "name": "Bob",
+      "avatarUrl": "https://picsum.photos/seed/2/160/160",
+      "hint": "person face"
+    },
+    {
+      "id": "3",
+      "name": "Charlie",
+      "avatarUrl": "https://picsum.photos/seed/3/160/160",
+      "hint": "person face"
+    },
+    {
+      "id": "4",
+      "name": "Kids",
+      "avatarUrl": "https://picsum.photos/seed/4/160/160",
+      "hint": "robot child"
+    }
+  ],
+  "images": [
+    {
+      "id": "auth-background",
+      "url": "https://picsum.photos/seed/auth/1920/1080",
+      "alt": "Abstract movie collage",
+      "hint": "movie collage"
+    },
+    {
+      "id": "landing-background",
+      "url": "https://picsum.photos/seed/land/1920/1080",
+      "alt": "Movie collage background",
+      "hint": "movie collage"
+    }
+  ]
+}
