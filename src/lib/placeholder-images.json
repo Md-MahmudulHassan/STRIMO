@@ -2,25 +2,25 @@
   "profiles": [
     {
       "id": "1",
-      "name": "Alice",
+      "name": "Harry",
       "avatarUrl": "https://picsum.photos/seed/1/160/160",
       "hint": "person face"
     },
     {
       "id": "2",
-      "name": "Bob",
+      "name": "Ron",
       "avatarUrl": "https://picsum.photos/seed/2/160/160",
       "hint": "person face"
     },
     {
       "id": "3",
-      "name": "Charlie",
+      "name": "Hermione",
       "avatarUrl": "https://picsum.photos/seed/3/160/160",
       "hint": "person face"
     },
     {
       "id": "4",
-      "name": "Kids",
+      "name": "Voldemort",
       "avatarUrl": "https://picsum.photos/seed/4/160/160",
       "hint": "robot child"
     }
